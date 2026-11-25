@@ -1,10 +1,10 @@
 # X Case Study Post — 2026-11-25
 
-Built and shipped a full skincare editorial + affiliate brand in 3 days:
+I built and shipped a full editorial + affiliate brand in 3 days with our agency:
 
-- Next.js site live: https://skincarehailey.com
-- 43 editorial guides + verified affiliate links
+- Next.js site: https://skincarehailey.com
+- 43 guides + verified affiliate links
 - Sitemap, llms.txt & legal pages
-- Pinterest + Instagram traffic pipeline
+- Pinterest + Instagram funnel
 
 72 hours from start to live.
